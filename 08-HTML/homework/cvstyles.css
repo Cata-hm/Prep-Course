@@ -1,0 +1,60 @@
+h1 {
+    color: white;
+    height: 10px;
+    margin-block-start: 40px;
+    margin-inline-start: 50px;
+}
+
+h3 {
+    color: white;
+    margin: 50px ;
+    height: 10px;
+}
+
+h5 {
+    color: white;
+    height: 10px;
+    margin-block-end: 40px;
+    margin-inline-start: 50px;
+}
+
+.divClass {
+    color: white;
+    background-color: gray; 
+    padding: 0px; 
+    border: 10px solid white;
+}
+
+img {
+    width: 200px;
+    position: absolute;
+    top: 23px;
+    left: 1050px;
+}
+
+#firstDiv {
+    width: 550px;
+    margin: 20px;
+    border: 10px;
+    margin-block-start: 0px;
+    margin-inline-start: 60px;
+    margin-block-end: 0px;
+}
+
+#secondDiv {
+    height: 1000px;
+    width: 550px;
+    margin: 20px;
+    position: absolute;
+    top: 277px;
+    left: 700px;
+    border: 10px;
+    margin-block-start: 0px;
+    margin-inline-start: 60px;
+    margin-block-end: 0px;
+}
+
+#spanId {
+    font-size: 15px; 
+    margin: 50px;
+}
